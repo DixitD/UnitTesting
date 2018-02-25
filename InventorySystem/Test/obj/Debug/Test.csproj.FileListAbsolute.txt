@@ -1,0 +1,16 @@
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Test.dll
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Test.pdb
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\InventorySystem.exe
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\InventorySystem.pdb
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\InventorySystem.exe.config
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\obj\Debug\Test.dll
+C:\Users\Dixit Hihoriya\source\repos\InventorySystem\Test\obj\Debug\Test.pdb
